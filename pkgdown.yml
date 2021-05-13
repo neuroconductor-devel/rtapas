@@ -1,0 +1,10 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1.9001
+pkgdown_sha: 008676176f527e8920d9427344d0bf378c2abcff
+articles:
+  tapas-vignette: tapas-vignette.html
+last_built: 2021-05-13T06:41Z
+urls:
+  reference: https://avalcarcel9.github.io/rtapas/reference
+  article: https://avalcarcel9.github.io/rtapas/articles
+
